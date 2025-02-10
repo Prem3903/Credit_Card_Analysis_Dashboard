@@ -32,6 +32,32 @@ The dashboard offers a comprehensive view of credit card performance, segmented 
 * **Transactions by Gender:** Table showing the number of transactions by gender.
 * **Total Transactions by Education Level:** Bar chart showing the total transactions amount by education level.
 
+## Visualizations
+
+## 1. Total Transaction Amount by Education Level
+
+![image](https://github.com/user-attachments/assets/0ae55809-1efc-421c-8764-275a9a05105d)
+
+## 2. Transactions by Month
+
+![image](https://github.com/user-attachments/assets/34fd01dc-741f-4b51-9671-1f112e6bca1d)
+
+## 3. Revenue by Job 
+
+![image](https://github.com/user-attachments/assets/6a0587d9-b5c3-46c2-a8b1-99fb8e0edc8f)
+
+
+## 4. Weekly Profit Trend
+
+![image](https://github.com/user-attachments/assets/86c1fbd4-b673-4d5a-8844-d35665964965)
+
+
+
+
+
+
+
+
 ## Data
 
 The data used in this dashboard includes information on:
