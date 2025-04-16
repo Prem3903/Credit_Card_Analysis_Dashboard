@@ -6,7 +6,7 @@ This repository contains the data and visualizations for a Credit Card Analysis 
 
 The dashboard offers a comprehensive view of credit card performance, segmented by various factors such as card type, customer demographics, and transaction characteristics. It allows for quick identification of trends, potential areas of improvement, and data-driven decision-making.
 
-## Key Metrics and Visualizations
+## Key Metrics and Visualizations.
 
 * **Key Performance Indicators (KPIs):**
     * Revenue (11M)
